@@ -17,9 +17,9 @@
 
 ## เริ่มต้นใช้งาน 
 
-### 1. ลงทะเบียน GearMind 
+### 1. รับ API Token จาก GearMind 
 
-เข้าไปที่ [https://your-website-url](https://your-website-url)  เพื่อลงทะเบียน และ สร้าง API Token 
+เข้าไปที่ [คู่มือการใช้งาน GearMind API](https://docs.geworn.cloud/dev-docs/gearmind-api) เพื่อดูขั้นตอนการรับ API Token
 
 ### 2. ติดตั้ง Library 
 
